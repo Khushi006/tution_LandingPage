@@ -1,0 +1,52 @@
+:root{
+    /* -----color variable----- */
+    --main-text-color: #0F172A;
+    --blue-text-color: #2563EB;
+    --orange-color: #EA580C;
+    --grey-color: #475569;
+    --yellow-color: #FACC15;
+    --light-blue-color: #DBEAFE;
+    --white-color: #FFFFFF;
+    --footer-grey-color: #E2E8F0;
+    --main-background-color: #FFFFFF;
+    --second-page-bg: #F1F5F9;
+    --card-border: rgba(0, 0, 0, 0.308);
+
+    /* -----padding variable----- */
+    --side-padding: 6rem;
+    --card-side-padding: 6rem;
+    --top-bottom-padding: 1.2rem;
+    --nav-padding-top: 0.5rem;
+    --sign-up-button: 0.9rem 1.8rem;
+    --log-in-padding: 0.9rem 3.4rem;
+    --div-top-padding: 7rem;
+    --second-sign-up-btn: 1.4rem 3.8rem;
+    --inner-card-padding: 2rem;
+    --screen-padding: 2rem 14rem;
+    --card-padding: 2.5rem 8rem;
+    --learn-sign-padding: 1.3rem 2.8rem;
+    --third-page-padding: 2rem;
+
+    /* -----font size----- */
+    --nav-font-size: 1.4rem;
+    --sign-up-font: 1.4rem;
+    --log-btn-font: 1.3rem;
+    --para-font-size: 1.7rem;
+    --arrow-font-size: 1.9rem;
+    --main-text-font: 3.98rem;
+    --home-sign-font: 1.7rem;
+    --home-icontext-font: 1.3rem;
+    --card-h2-font: 4.2rem;
+    --slider-arrow-font: 2rem;
+    --card-font-size: 1.6rem;
+
+    /* -----font weigth----- */
+    --semi-bold-font-2: 500;
+    --semi-bold-font-1: 400;
+    --light-font: 300;
+    --bold-font: 600;
+    --strong-bold-font: 700;
+
+    /* -----font family----- */
+    --main-font-family: 'Roboto', sans-serif;
+}
